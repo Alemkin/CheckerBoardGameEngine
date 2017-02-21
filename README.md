@@ -2,7 +2,7 @@
 This repository will house the engine for games played on a checker board.
 
 #Current Games Supported
-Chess
+Chess  
 Checkers
 
 #Instructions:
